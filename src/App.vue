@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="../pic/logo.png" width="10%">
+    <img src="pic/logo.png" width="10%">
     <!--<HelloWorld msg="▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀"/> -->
     ▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀ 
     <Game />
