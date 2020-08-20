@@ -1,21 +1,21 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img src="../pic/logo.png" width="10%">
+    <!--<HelloWorld msg="▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀"/> -->
+    ▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀ 
+    <Game />
   </div>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
+import Game from './Game'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Game
   }
 }
 </script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
