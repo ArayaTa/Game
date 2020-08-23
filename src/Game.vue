@@ -8,7 +8,7 @@
     name = {{ aplayer.name}}
     hp={{ aplayer.hp}}
     image={{ aplayer.image}}
-     <hr />
+     <hr /> 
     <p>HP Monter {{randomDamage(1,3)}}
     {{ monster[randomDamage(1,3)-1].name}}
     </p>
