@@ -1,12 +1,14 @@
 <template>
   <div id="app">
-    <img src="./pic/logo.png" width="10%">
+    <img src="./pic/pngguru.com.png" width="10%">
     <!--<HelloWorld msg="▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀"/> -->
-    ▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀ 
+    <h2>▀▄▀▄▀▄ THE INFINITY WAR GAMES ▄▀▄▀▄▀ </h2>
     <Game />
   </div>
 </template>
+
 <script>
+
 
 import Game from './Game'
 export default {
